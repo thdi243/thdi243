@@ -36,4 +36,4 @@ I am a Web Developer who is passionate about creating websites using PHP or Java
 ### Business
 
 - 📑 [My CV Tohadi](https://raw.githubusercontent.com/thdi243/thdi243/main/file/CV_TOHADI.pdf)
-- 📧 [tohadi.342@gmail.com](mailto:tohadi.342@gmail.com)
+- 📧 [Email saya](https://mail.google.com/mail/?view=cm&fs=1&to=tohadi.342@gmail.com)
